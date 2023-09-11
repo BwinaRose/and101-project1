@@ -37,6 +37,8 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ![video demo](https://imgur.com/a/ATb0EsH.gif)
 
+<img src="https://imgur.com/a/ATb0EsH.gif" alt="video demo" />
+
 if the link above doesn't work use this one:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ATb0EsH"  ><a href="//imgur.com/a/ATb0EsH">project1-and101</a></blockquote>

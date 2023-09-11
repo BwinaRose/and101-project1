@@ -10,7 +10,7 @@ Time spent: **2.5** hours spent in total
 
 **Hello Squirrel** is an Android app that introduces me 🐿.
 
-If I had to describe this project in three (3) emojis, they would be: ** 😝👩🏼‍💻📲 **
+If I had to describe this project in three (3) emojis, they would be: 😝👩🏼‍💻📲
 
 ## Application Features
 
@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/eUkZVuN.gif' width="500" height="300" alt="video demo" />
+<img src='![](https://i.imgur.com/eUkZVuN.gif)' width="500" height="300" alt="video demo" />
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ATb0EsH"  ><a href="//imgur.com/a/ATb0EsH">project1-and101</a></blockquote>
 

@@ -37,6 +37,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://imgur.com/a/ATb0EsH' title='Video Demo' width='' alt='Video Demo' />
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ATb0EsH"  ><a href="//imgur.com/a/ATb0EsH">project1-and101</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 GIF created with **your chosen GIF tool**
 
 <!-- Recommended tools:

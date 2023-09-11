@@ -35,7 +35,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='![](https://i.imgur.com/eUkZVuN.gif)' width="500" height="300" alt="video demo" />
+![video demo](https://i.imgur.com/eUkZVuN.mp4)
+
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ATb0EsH"  ><a href="//imgur.com/a/ATb0EsH">project1-and101</a></blockquote>
 
